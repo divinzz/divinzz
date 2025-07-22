@@ -45,6 +45,7 @@
 
 📬 Email: [divindiv2018@email.com](mailto:divindiv2018@email.com)  
 🔗 LinkedIn: [linkedin.com/in/divin-dinesh-6aa637336](https://www.linkedin.com/in/divin-dinesh-6aa637336/)  
+🌐 Portfolio: [datascienceportfol.io/divindivi2018](https://datascienceportfol.io/divindivi2018)
 
 ---
 
