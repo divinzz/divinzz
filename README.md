@@ -1,19 +1,24 @@
 # 👋 Hello, I'm Divin Dinesh
 
 🎯 Aspiring Data Scientist & Analyst  
-📊 Passionate about exploring and visualizing data to uncover insights  
-🚀 Currently building projects with Python, Pandas, Tableau, Power BI, and Streamlit  
-🧠 Focused on data-driven problem solving — from cleaning to model deployment  
-📚 Learning ML, DL, and AI tools to stay future-ready
+📊 Turning data into insights using Python, Tableau, and Power BI  
+🚀 Exploring ML, NLP, and deep learning tools
 
 ---
 
 ## 📌 Featured Projects
 
-- 💬 **Sentiment Analysis** — Classified Twitter posts using NLP  
-- 🌿 **Plant Disease Prediction** — Detected leaf diseases with CNN  
-- 📈 **Sales & Marketing Dashboard** — Visualized KPIs with Power BI/Tableau  
-- 👥 **HR Dashboard** — Analyzed employee data & attrition trends
+- 💬 **Sentiment Analysis on Social Media Posts**
+  - Analyzed Twitter posts to classify sentiment using NLP and machine learning
+
+- 🌿 **Plant Disease Prediction**
+  - Used deep learning to detect plant leaf diseases from images
+
+- 📈 **Sales & Marketing Dashboard**
+  - Visualized KPIs and customer trends using Power BI/Tableau
+
+- 👥 **Human Resource Dashboard**
+  - Analyzed employee attrition, demographics, and hiring trends in a dynamic dashboard
 
 ---
 
@@ -38,8 +43,8 @@
 
 ## 📫 Connect with Me
 
-🔗 LinkedIn: [linkedin.com/in/yourprofile](#)  
-📬 Email: [your@email.com](#)
+📬 Email: [divindiv2018@email.com](#)
+🔗 LinkedIn: [https://www.linkedin.com/in/divin-dinesh-6aa637336/](#)  
 
 ---
 
