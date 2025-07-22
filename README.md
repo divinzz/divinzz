@@ -43,8 +43,8 @@
 
 ## 📫 Connect with Me
 
-📬 Email: [divindiv2018@email.com](#)
-🔗 LinkedIn: [https://www.linkedin.com/in/divin-dinesh-6aa637336/](#)  
+📬 Email: [divindiv2018@email.com](mailto:divindiv2018@email.com)  
+🔗 LinkedIn: [linkedin.com/in/divin-dinesh-6aa637336](https://www.linkedin.com/in/divin-dinesh-6aa637336/)  
 
 ---
 
