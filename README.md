@@ -3,7 +3,6 @@
 🎯 Aspiring Data Scientist & Analyst  
 📊 Passionate about exploring and visualizing data to uncover insights  
 🚀 Currently building projects with Python, Pandas, Tableau, Power BI, and Streamlit  
-
 🧠 Focused on data-driven problem solving — from cleaning to model deployment  
 📚 Learning ML, DL, and AI tools to stay future-ready
 
@@ -20,15 +19,20 @@
 
 ## 🧰 Tools & Technologies
 
-**Languages/Libraries**: Python, Pandas, NumPy, Matplotlib, Scikit-learn  
-**Platforms**: Tableau, Power BI, Excel, Streamlit, SQL, TensorFlow
+**Languages & Libraries**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat)
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=divinzz&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=divinzz&layout=compact&theme=radical)
+**Tools & Platforms**  
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=Tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white)
 
 ---
 
